@@ -10,6 +10,3 @@ Examine customer spending patterns using SQL methods like window functions, join
 - **Recency Analysis**
 - **Ranking Customers Using Window Functions**
 
-## How to Use:
-1. Run `sample_data.sql` to create and populate the database.
-2. Run `customer_segmentation.sql` to execute the analysis queries.
